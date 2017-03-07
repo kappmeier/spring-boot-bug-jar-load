@@ -1,0 +1,1 @@
+ :: Load custom config with Spring Boot${spring-boot.formatted-version} ::
